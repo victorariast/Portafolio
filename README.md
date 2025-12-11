@@ -46,7 +46,7 @@ Mi objetivo es crear soluciones eficientes, escalables y con buen diseño, aplic
 API REST completa para manejo de productos, usuarios y pedidos.  
 Incluye autenticación JWT, validaciones y documentación con Swagger.
 
- **Repositorio:** *(enlace a tu repo)*
+ **Repositorio:** *(enlace)*
 
 ---
 
