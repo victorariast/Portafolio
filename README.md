@@ -1,6 +1,5 @@
-# 👋 Hola, soy un Desarrollador Fullstack Java
-
-¡Bienvenido a mi portafolio técnico!  
+# ¡Bienvenido a mi portafolio técnico!  
+ 
 Soy un desarrollador Fullstack especializado en **Java**, **Spring Boot**, **APIs REST**, **Bases de Datos**, y **Desarrollo Frontend** con tecnologías modernas como **JavaScript**, **HTML**, **CSS** y **Bootstrap**.
 
 Mi objetivo es crear soluciones eficientes, escalables y con buen diseño, aplicando buenas prácticas de arquitectura y desarrollo.
